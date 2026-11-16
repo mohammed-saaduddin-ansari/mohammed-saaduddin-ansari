@@ -19,6 +19,14 @@ I've spent my career at LivePerson, SADA (a Google Cloud partner), EPAM, SAP Lab
 **Reliability:** SLOs and error budgets, Prometheus, Grafana, OpenTelemetry, incident response<br>
 **Code:** Python, Go, Bash
 
+#### Open-source reference implementations
+
+Most of my work lives in private company repositories. Here I publish clean-room reference implementations of the patterns I've built in production: no employer or client code.
+
+| Project | What it shows |
+|---|---|
+| [**aiops-triage-agent**](https://github.com/mohammed-saaduddin-ansari/aiops-triage-agent) | Alertmanager → LLM agent with read-only tools (Prometheus, Kubernetes, Loki, runbooks) → structured verdict, with evals, OpenTelemetry tracing and human approval |
+
 #### Get in touch
 
 [Website](https://mohammed-saaduddin-ansari.pages.dev) · [LinkedIn](https://www.linkedin.com/in/md-saaduddin-ansari) · Based in Hyderabad, India · Open to Staff and Principal roles: remote-first, or relocation (US, Canada, UK, Singapore, Gulf) with visa sponsorship
